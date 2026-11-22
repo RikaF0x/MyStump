@@ -7,22 +7,22 @@
 		"development": {
 			"developmentClient": true,
 			"distribution": "internal",
-			"node": "24.0.0"
+			"node": "24.3.0"
 		},
 		"apk": {
 			"distribution": "internal",
-			"node": "24.0.0",
+			"node": "24.3.0",
 			"android": {
 				"buildType": "apk"
 			}
 		},
 		"dryrun": {
 			"autoIncrement": false,
-			"node": "24.0.0"
+			"node": "24.3.0"
 		},
 		"production": {
 			"autoIncrement": true,
-			"node": "24.0.0"
+			"node": "24.3.0"
 		}
 	},
 	"submit": {

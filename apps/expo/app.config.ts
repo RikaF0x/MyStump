@@ -6,7 +6,7 @@ export default ({ config }: ConfigContext): ExpoConfig => {
 	const initialConfig: ExpoConfig = {
 		...config,
 		name: 'Stump',
-		slug: 'stump',
+		slug: 'mystumpapp',
 		version: '0.0.0',
 		orientation: 'default',
 		icon: './assets/images/icon.png',
